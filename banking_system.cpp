@@ -18,7 +18,6 @@ using namespace std;
 class BankSystem {
     public:
     //attributes
-        //vector<Account> accounts;
         string currentUser;
         bool loggedIn {false};
     //methods
